@@ -1,3 +1,20 @@
+old
+1
+2
+3
+4
+5
+new
+6001
+08
+=
+l'a',
+'b', 'a', 'c', 'b', 'a']
+= list(dict.fromkeys(old) •keys))
+print (new)
+
+
+
 inv ={
 'Sword': 1,
 'Potion': 3
